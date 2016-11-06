@@ -38,5 +38,10 @@ References:
   - title: Subtree Isomorphism in Graphs with Locally Polynomial Spanning Trees
   - author: Pascal Welke, Tamas Horvath, Stefan Wrobel
   - type: unpublished
+
+- id: fast isomorphism
+  - title: Fast Subtree Isomorphism in Graph Databases with Locally Polynomial Spanning Trees
+  - author: Pascal Welke
+  - type: unpublished
   
 ---
