@@ -7,8 +7,7 @@ It is part of another framework so you cannot compile it only with these codes.
 
 The compiled program [subgraph](https://github.com/liyakun/master-thesis/blob/master/subgraph) is provided.
 
-##### Usage
-Help:
+##### Help
 `subgraph -h`
 
 ##### Example
