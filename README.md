@@ -21,7 +21,7 @@ The compiled program [subgraph](https://github.com/liyakun/master-thesis/blob/ma
 
 
 ---
-references:
+References:
 
 - id: mining
   - title: On the Complexity of Frequent Subtree Mining in Very Simple Structures
