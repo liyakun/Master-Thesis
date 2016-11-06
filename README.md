@@ -14,8 +14,8 @@ Help:
 ##### Example
 
 ###### Subtree Isomorphism Check
-`./subgraph -u isomorphic ./isomorphic_example.txt`
+`./subgraph -u isomorphic ./data/isomorphic_example.txt`
 
 ###### Frequent Connected Subtree Mining
 
-`./subgraph -u mining -m levelwise -i iterative -s 1 -v 5 -c prefix ./mining_example.txt`
+`./subgraph -u mining -m levelwise -i iterative -s 1 -v 5 -c prefix ./data/mining_example.txt`
