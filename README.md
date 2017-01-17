@@ -1,7 +1,9 @@
 # master-thesis
 
 ##### Description
-This repository contains the source code of thesis project implementations.
+My master thesis topic is Frequent Subtree Mining From Locally Easy Graphs.
+
+This repository contains the source code of my implementation.
 
 It is part of another framework so you cannot compile it only with these codes.
 
