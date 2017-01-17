@@ -17,7 +17,7 @@ The compiled program [subgraph](https://github.com/liyakun/master-thesis/blob/ma
 ###### Subtree Isomorphism Check
 `./subgraph -u isomorphic ./data/isomorphic_example.txt`
 
-###### Frequent Connected Subtree Mining
+###### Frequent Subtree Mining
 
 `./subgraph -u mining -m levelwise -i iterative -s 1 -v 5 -c prefix ./data/mining_example.txt`
 
